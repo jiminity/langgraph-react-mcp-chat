@@ -44,7 +44,7 @@ cd langgraph-react-mcp-chat
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Windows의 경우: .venv\Scripts\activate
-uv pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 3. `.env` 파일 설정하기
