@@ -52,7 +52,7 @@ pip install -r requirements.txt
 `.env.example` 파일을 `.env`로 복사하고 필요한 API 키를 추가합니다:
 
 ```bash
-cp .env.example .env
+copy .env.example .env
 ```
 
 아래는 필요한 API 키 목록입니다:
